@@ -23,3 +23,4 @@ Use your rule with different projects and describe you findings below. See the [
 
 ## Answer
 
+In order to detect 3 nested if statements using PMD, we used a ruleset containing one rule as described in the code section.
