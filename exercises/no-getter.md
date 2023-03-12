@@ -29,3 +29,5 @@ Include in this repository the code of your application. Remove all unnecessary 
 *Disclaimer* In a real project not all fields need to be accessed with a public getter.
 
 ## Answer
+
+see code/Exercice4/main.java
